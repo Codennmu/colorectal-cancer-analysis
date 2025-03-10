@@ -1,0 +1,33 @@
+Training Logistic Regression...
+Evaluating Logistic Regression...
+Logistic Regression - Accuracy: 0.6022, ROC AUC: 0.4988, Training time: 1.83s
+--------------------------------------------------------------------------------
+Training Random Forest...
+Evaluating Random Forest...
+Random Forest - Accuracy: 0.5881, ROC AUC: 0.4982, Training time: 49.54s
+--------------------------------------------------------------------------------
+Training XGBoost...
+Evaluating XGBoost...
+XGBoost - Accuracy: 0.5897, ROC AUC: 0.5093, Training time: 3.68s
+--------------------------------------------------------------------------------
+
+Model Performance Summary:
+                     accuracy  precision    recall  f1_score   roc_auc  \
+XGBoost              0.589672   0.603478  0.929014  0.731670  0.509297   
+Logistic Regression  0.602179   0.602179  1.000000  0.751700  0.498788   
+Random Forest        0.588090   0.602272  0.930352  0.731197  0.498167   
+
+                     training_time  
+XGBoost                   3.684197  
+Logistic Regression       1.833410  
+Random Forest            49.542443  
+
+Detailed Classification Report for XGBoost:
+              precision    recall  f1-score   support
+
+           0       0.41      0.08      0.13     13327
+           1       0.60      0.93      0.73     20173
+
+    accuracy                           0.59     33500
+   macro avg       0.51      0.50      0.43     33500
+weighted avg       0.53      0.59      0.49     33500

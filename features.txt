@@ -1,0 +1,15 @@
+
+Categorical features:
+['Country', 'Gender', 'Cancer_Stage', 'Family_History', 'Smoking_History', 'Alcohol_Consumption', 'Obesity_BMI', 'Diet_Risk', 'Physical_Activity', 'Diabetes', 'Inflammatory_Bowel_Disease', 'Genetic_Mutation', 'Screening_History', 'Early_Detection', 'Treatment_Type', 'Urban_or_Rural', 'Economic_Classification', 'Healthcare_Access', 'Insurance_Status']
+
+Target distribution:
+Survival_5_years
+1    59.933611
+0    40.066389
+Name: proportion, dtype: float64
+
+Number of numerical features: 5
+Number of categorical features: 19
+
+Training set shape: (133997, 24)
+Testing set shape: (33500, 24)
