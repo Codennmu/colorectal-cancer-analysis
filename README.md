@@ -61,32 +61,31 @@ colorectal-cancer-analysis/
 Here are some key visualizations used in the analysis:
 
 - **Country-wise Distribution**  
-  ![Country-wise Distribution](![contrywise](https://github.com/user-attachments/assets/5fc607b5-1222-46ab-869f-ceb2c7571c1e)
-)
+  ![Country-wise Distribution](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/contrywise.png)
 
 - **Cancer Stage Distribution**  
   ![Cancer Stage Distribution](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/cancerstage.png)
 
 - **Correlation Matrix of Features**  
-  ![Correlation Matrix](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/correlation.png)
+  ![Correlation Matrix](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/corelation.png)
 
 - **5-Year Survival Rate**  
-  ![5-Year Survival Rate](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/5_years.png)
+  ![5-Year Survival Rate](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/5%20years.png)
 
 - **Treatment Types by Cancer Stage**  
-  ![Treatment Types by Cancer Stage](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/treatment_types_by_cancer_stage.png)
+  ![Treatment Types by Cancer Stage](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/Treatment%20Typesbyancer%20Stage.png)
 
 - **ROC Curve Comparison of Models**  
-  ![ROC Curve Comparison](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/roc_curve_comparison.png)
+  ![ROC Curve Comparison](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/roc%20curve%20comaprison.png)
 
 - **Healthcare Costs by Treatment Type**  
-  ![Healthcare Costs by Treatment Type](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/healthcare_costs_by_treatment_type.png)
+  ![Healthcare Costs by Treatment Type](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/Healthcare%20Costs%20by%20Treatment%20Type.png)
 
 - **Healthcare Costs vs. Survival Rate by Country**  
-  ![Healthcare Costs vs. Survival Rate](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/healthcare_costs_vs_survival_by_country.png)
+  ![Healthcare Costs vs. Survival Rate](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/Healthcare%20Costs%20vs.%20Survival%20Rate%20by%20Country.png)
 
 - **Actual vs. Predicted Healthcare Costs**  
-  ![Actual vs. Predicted Healthcare Costs](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/actual_vs_predicted_healthcare_costs.png)
+  ![Actual vs. Predicted Healthcare Costs](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/Actual%20vs.%20Predicted%20Healthcare%20Costs.png)
 
 ---
 
