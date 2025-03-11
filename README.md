@@ -61,7 +61,8 @@ colorectal-cancer-analysis/
 Here are some key visualizations used in the analysis:
 
 - **Country-wise Distribution**  
-  ![Country-wise Distribution](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/countrywise.png)
+  ![Country-wise Distribution](![contrywise](https://github.com/user-attachments/assets/5fc607b5-1222-46ab-869f-ceb2c7571c1e)
+)
 
 - **Cancer Stage Distribution**  
   ![Cancer Stage Distribution](https://raw.githubusercontent.com/Codennmu/colorectal-cancer-analysis/main/Images/cancerstage.png)
