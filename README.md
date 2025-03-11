@@ -22,16 +22,6 @@ colorectal-cancer-analysis/
 │   ├── comprehensive-colorectal-cancer-dataset-analysis.ipynb
 │── results/                 # Results & images
 │   ├── images/              # Visualizations
-│   │   ├── distribution_country.png
-│   │   ├── distribution_gender.png
-│   │   ├── distribution_cancer_stage.png
-│   │   ├── survival_5_years.png
-│   │   ├── treatment_types_cancer_stage.png
-│   │   ├── correlation_matrix.png
-│   │   ├── roc_curve_comparison.png
-│   │   ├── healthcare_costs_treatment.png
-│   │   ├── actual_vs_predicted_healthcare.png
-│   │   ├── healthcare_costs_vs_survival.png
 │   ├── result.txt           # Model performance results
 │── src/                     # Scripts for preprocessing, training, evaluation
 │   ├── preprocess.py
@@ -71,31 +61,31 @@ colorectal-cancer-analysis/
 Here are some key visualizations used in the analysis:
 
 - **Country-wise Distribution**  
-  ![Country-wise Distribution](images/distribution_country.png)
+  ![Country-wise Distribution](images/countrywise.png)
 
 - **Cancer Stage Distribution**  
-  ![Cancer Stage Distribution](images/distribution_cancer_stage.png)
-
-- **5-Year Survival Rate**  
-  ![5-Year Survival Rate](images/survival_5_years.png)
-
-- **Treatment Types by Cancer Stage**  
-  ![Treatment Types by Cancer Stage](images/treatment_types_cancer_stage.png)
+  ![Cancer Stage Distribution](images/cancerstage.png)
 
 - **Correlation Matrix of Features**  
-  ![Correlation Matrix](images/correlation_matrix.png)
+  ![Correlation Matrix](images/correlation.png)
+
+- **5-Year Survival Rate**  
+  ![5-Year Survival Rate](images/5_years.png)
+
+- **Treatment Types by Cancer Stage**  
+  ![Treatment Types by Cancer Stage](images/treatment_types_by_cancer_stage.png)
 
 - **ROC Curve Comparison of Models**  
   ![ROC Curve Comparison](images/roc_curve_comparison.png)
 
 - **Healthcare Costs by Treatment Type**  
-  ![Healthcare Costs by Treatment Type](images/healthcare_costs_treatment.png)
-
-- **Actual vs. Predicted Healthcare Costs**  
-  ![Actual vs. Predicted Healthcare Costs](images/actual_vs_predicted_healthcare.png)
+  ![Healthcare Costs by Treatment Type](images/healthcare_costs_by_treatment_type.png)
 
 - **Healthcare Costs vs. Survival Rate by Country**  
-  ![Healthcare Costs vs. Survival Rate](images/healthcare_costs_vs_survival.png)
+  ![Healthcare Costs vs. Survival Rate](images/healthcare_costs_vs_survival_by_country.png)
+
+- **Actual vs. Predicted Healthcare Costs**  
+  ![Actual vs. Predicted Healthcare Costs](images/actual_vs_predicted_healthcare_costs.png)
 
 ---
 
